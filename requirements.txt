@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.14.0
+websocket-client==1.6.1
+numpy==1.26.4
+requests==2.31.0
