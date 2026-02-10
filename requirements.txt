@@ -1,5 +1,0 @@
-pyTelegramBotAPI
-websocket-client
-pandas
-requests
-numpy
