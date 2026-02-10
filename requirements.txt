@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-websocket-client
-pandas
-ta
